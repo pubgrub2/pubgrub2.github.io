@@ -2,14 +2,14 @@
   font-family: "Protomolecule";
   font-style: normal;
   font-weight: 400;
-  src: "fonts/Protomolecule.woff2" format("woff2");
+  src: "https://pubgrub2.github.io/fonts/Protomolecule.woff2" format("woff2");
 }
 
 body {
   background-color: #2e3c4e;
 }
 
-.centeredtitle {
+.centertitle {
   text-align: center;
   font-family: "Protomolecule", "Courier New", "sans-serif";
 }
