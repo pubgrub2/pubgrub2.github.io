@@ -1,15 +1,25 @@
 @font-face {
-  font-family: "Protomolecule";
+  font-family: "Proto";
   font-style: normal;
   font-weight: 400;
-  src: "https://pubgrub2.github.io/fonts/Protomolecule.woff2" format("woff2");
+  src: "fonts/Protomolcule.woff2" format("woff2");
 }
 
 body {
-  background-color: #2e3c4e;
+  background-color: #1e1e3e;
 }
 
 .centertitle {
   text-align: center;
-  font-family: "Protomolecule", "Courier New", "sans-serif";
+  font-family: "Proto", 'Courier New', Courier, monospace, "sans-serif";
+  color: #bbdef6;
+  font-size: 350%;
 }
+
+.normaltext {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace, "sans-serif";
+  color: #bbdef6;
+  font-size: 130%;
+}
+
